@@ -11,7 +11,7 @@ class Ex5_1 {
 		for (int i=0; i < iArr1.length ; i++ ) {
 			iArr1[i] = i + 1; // 1~10의 숫자를 순서대로 배열에 넣는다.
 		}
-
+ 
 		for (int i=0; i < iArr2.length ; i++ ) {
 			iArr2[i] = (int)(Math.random()*10) + 1; // 1~10의 값을 배열에 저장
 		}
